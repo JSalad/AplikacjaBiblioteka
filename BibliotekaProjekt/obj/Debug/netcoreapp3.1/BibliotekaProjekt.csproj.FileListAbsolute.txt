@@ -1,0 +1,71 @@
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BibliotekaProjekt.exe
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BibliotekaProjekt.deps.json
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BibliotekaProjekt.runtimeconfig.json
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BibliotekaProjekt.runtimeconfig.dev.json
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BibliotekaProjekt.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BibliotekaProjekt.pdb
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.csproj.AssemblyReference.cache
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.Login.resources
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.csproj.GenerateResource.cache
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.AssemblyInfoInputs.cache
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.AssemblyInfo.cs
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.pdb
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.genruntimeconfig.cache
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.StronaGlowna.resources
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.Czytelnicy.resources
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.Bibliotekarze.resources
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.Ksiazki.resources
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.Wypozyczenia.resources
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.csproj.CopyComplete
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Salad\source\repos\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BibliotekaProjekt.exe
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BibliotekaProjekt.deps.json
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BibliotekaProjekt.runtimeconfig.json
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BibliotekaProjekt.runtimeconfig.dev.json
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BibliotekaProjekt.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BibliotekaProjekt.pdb
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.csproj.AssemblyReference.cache
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.Bibliotekarze.resources
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.Czytelnicy.resources
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.Ksiazki.resources
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.Login.resources
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.StronaGlowna.resources
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.Wypozyczenia.resources
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.csproj.GenerateResource.cache
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.AssemblyInfoInputs.cache
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.AssemblyInfo.cs
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.csproj.CopyComplete
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.dll
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.pdb
+C:\Users\Salad\Desktop\Programowanie\projekt biblioteka\BibliotekaProjekt\BibliotekaProjekt\obj\Debug\netcoreapp3.1\BibliotekaProjekt.genruntimeconfig.cache

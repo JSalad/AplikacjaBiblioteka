@@ -1,0 +1,12 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp4.6.1",
+    "additionalProbingPaths": [
+      "C:\\Users\\Salad\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Salad\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
